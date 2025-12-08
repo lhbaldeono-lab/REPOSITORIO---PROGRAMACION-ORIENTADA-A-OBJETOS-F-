@@ -1,4 +1,5 @@
 Bienvenidos a mi Repositorio de Programación Orientada a Objetos.
+
 Hola, mi nombre es Luis Henry Baldeón Ochoa, estudiante de la carrera Tecnologías de la Información y Comunicación (TIC) de 2.º semestre en la Universidad Estatal Amazónica.
 
 Este repositorio ha sido creado con el propósito de documentar y organizar todos los ejemplos, prácticas y tareas desarrolladas durante la asignatura Programación Orientada a Objetos (POO).
