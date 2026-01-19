@@ -1,1 +1,17 @@
+# Tarea POO - Semana 6 (Python)
+
+## Descripción
+Programa en Python desarrollado en PyCharm aplicando:
+- Clase y objeto
+- Herencia (clase base y clase derivada)
+- Encapsulación (atributo privado y métodos getter/setter)
+- Polimorfismo (método sobrescrito)
+
+## Archivos
+- tarea_poo_semana6.py
+
+## Ejecución
+1. Abrir el archivo en PyCharm
+2. Ejecutar Run 'tarea_poo_semana6'
+3. Ver resultados en consola
 
