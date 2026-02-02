@@ -1,1 +1,93 @@
+Dashboard POO en Python
+Descripción del proyecto
 
+Este repositorio contiene la adaptación de un proyecto de Programación Orientada a Objetos cuyo objetivo es organizar y gestionar scripts y proyectos académicos en Python mediante un dashboard interactivo en consola.
+
+El proyecto se basa en un repositorio inicial proporcionado por la asignatura y fue modificado y mejorado para ajustarse a mis necesidades académicas, especialmente el archivo Dashboard.py, incorporando nuevas funcionalidades y una estructura más clara para la gestión de proyectos.
+
+Objetivo
+
+El objetivo principal de este proyecto es facilitar la organización, visualización y ejecución de scripts en Python, clasificados por unidades y temas, aplicando los principios de la Programación Orientada a Objetos.
+
+Conceptos aplicados
+
+En el desarrollo y adaptación del proyecto se aplicaron los siguientes conceptos:
+
+Programación Orientada a Objetos
+
+Definición de clases y objetos
+
+Uso de constructores (__init__)
+
+Encapsulación y modularidad
+
+Buenas prácticas de nomenclatura (snake_case)
+
+Manejo de archivos
+
+Ejecución de procesos desde Python
+
+Organización de proyectos académicos
+
+Funcionalidades principales
+
+Navegación por unidades y subcarpetas
+
+Visualización de scripts Python (.py)
+
+Ejecución de scripts desde el dashboard
+
+Sistema de favoritos para scripts importantes
+
+Búsqueda de scripts por nombre
+
+Interfaz en consola clara y estructurada
+
+Compatibilidad con Windows, Linux y macOS
+
+Estructura del proyecto
+dashboard-poo-python/
+│
+├── Dashboard.py
+├── dashboard_favoritos.txt
+├── Unidad 1/
+│   └── Tema 1/
+│       └── ejemplo.py
+├── Unidad 2/
+│   └── ...
+└── README.md
+
+Cómo ejecutar el programa
+
+Clonar el repositorio o descargarlo como archivo ZIP.
+
+Acceder a la carpeta del proyecto.
+
+Ejecutar el archivo principal con el siguiente comando:
+
+python Dashboard.py
+
+
+Utilizar el menú interactivo para navegar y ejecutar los scripts disponibles.
+
+Pruebas
+
+El programa fue probado en un entorno de Python Online y en ejecución local, verificando la correcta carga de carpetas y scripts, la ejecución sin errores y el funcionamiento adecuado del sistema de favoritos.
+
+Evidencias
+
+Capturas de pantalla de la ejecución del dashboard
+
+Código fuente documentado
+
+Repositorio público para revisión académica
+
+Autor
+
+Henry Baldeón Ochoa
+Asignatura: Programación Orientada a Objetos
+Modalidad: En línea
+
+Observaciones
+
+Este proyecto fue desarrollado con fines académicos como parte de una actividad de adaptación de un proyecto base, fortaleciendo la aplicación práctica de la Programación Orientada a Objetos en Python.
