@@ -1,1 +1,13 @@
+# Sistema de Gestión de Inventarios (Python)
 
+Programa en consola desarrollado con Programación Orientada a Objetos (POO).
+
+## Funcionalidades
+- Añadir producto (ID único)
+- Eliminar por ID
+- Actualizar cantidad o precio por ID
+- Buscar por nombre (coincidencia parcial)
+- Mostrar todo el inventario
+
+## Ejecutar
+python main.py
