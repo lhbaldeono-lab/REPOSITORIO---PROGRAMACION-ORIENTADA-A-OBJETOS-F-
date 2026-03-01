@@ -1,1 +1,42 @@
+# 🛒 Sistema Avanzado de Gestión de Inventario - Frutas
 
+## 📌 Descripción
+
+Este proyecto consiste en el desarrollo de un Sistema Avanzado de Gestión de Inventario para una tienda de frutas, implementado en Python utilizando Programación Orientada a Objetos (POO), colecciones y almacenamiento en archivos JSON.
+
+El sistema permite administrar productos mediante un menú interactivo en consola.
+
+---
+
+## 🎯 Objetivos Cumplidos
+
+✔ Aplicación de Programación Orientada a Objetos  
+✔ Uso de colecciones (diccionario y lista)  
+✔ Implementación de almacenamiento persistente en archivos JSON  
+✔ Desarrollo de un menú interactivo en consola  
+
+---
+
+## 🧱 Estructura del Programa
+
+### 🔹 Clase Producto
+
+Contiene los siguientes atributos:
+
+- ID (único)
+- Nombre
+- Cantidad
+- Precio
+
+Incluye métodos para:
+- Obtener datos del producto
+- Modificar cantidad y precio
+
+---
+
+### 🔹 Clase Inventario
+
+Utiliza un **diccionario** como colección principal:
+
+```python
+self.productos = {}
