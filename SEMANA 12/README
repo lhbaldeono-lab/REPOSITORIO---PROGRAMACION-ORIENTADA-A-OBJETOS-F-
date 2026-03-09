@@ -1,1 +1,83 @@
+# Sistema de Gestión de Biblioteca Digital
+
+## Descripción
+
+Este proyecto implementa un **Sistema de Gestión de Biblioteca Digital** desarrollado en Python utilizando **Programación Orientada a Objetos (POO)**.  
+El sistema permite administrar libros, registrar usuarios y gestionar préstamos dentro de una biblioteca digital.
+
+El objetivo del proyecto es aplicar el uso de **estructuras de datos de Python** como listas, tuplas, diccionarios y conjuntos dentro de un sistema funcional.
+
+---
+
+## Funcionalidades del sistema
+
+El sistema permite realizar las siguientes operaciones:
+
+- Registrar usuarios en la biblioteca
+- Añadir libros al catálogo
+- Prestar libros a los usuarios
+- Devolver libros prestados
+- Buscar libros por autor
+- Buscar libros por categoría
+- Listar los libros prestados a un usuario
+
+---
+
+## Estructuras de datos utilizadas
+
+En el desarrollo del sistema se utilizaron diferentes estructuras de datos de Python:
+
+| Estructura | Uso en el sistema |
+|------------|------------------|
+| Tuplas | Almacenar información del libro (título y autor) |
+| Listas | Gestionar los libros prestados a cada usuario |
+| Diccionarios | Almacenar los libros utilizando el ISBN como clave |
+| Conjuntos (Set) | Garantizar IDs únicos para los usuarios |
+
+---
+
+## Clases implementadas
+
+### Clase Libro
+Representa un libro dentro de la biblioteca.
+
+Atributos:
+- Título
+- Autor
+- Categoría
+- ISBN
+- Disponibilidad
+
+---
+
+### Clase Usuario
+Representa un usuario registrado en la biblioteca.
+
+Atributos:
+- Nombre
+- ID de usuario
+- Lista de libros prestados
+
+---
+
+### Clase Biblioteca
+Gestiona todas las operaciones del sistema.
+
+Permite:
+- Añadir y eliminar libros
+- Registrar usuarios
+- Gestionar préstamos
+- Realizar búsquedas en el catálogo
+
+---
+
+## Tecnologías utilizadas
+
+- Python 3
+- Programación Orientada a Objetos
+- GitHub
+
+---
+
+## Estructura del proyecto
 
