@@ -1,1 +1,20 @@
+# Aplicación GUI con Tkinter
 
+## Descripción
+Este proyecto consiste en el desarrollo de una aplicación de interfaz gráfica de usuario (GUI) utilizando Python y la librería Tkinter.  
+La aplicación permite ingresar datos mediante un campo de texto y mostrarlos en una lista dentro de la interfaz gráfica.
+
+## Funcionalidades
+- Ingresar datos mediante un campo de texto
+- Agregar datos a una lista mediante el botón **Agregar**
+- Visualizar los datos ingresados dentro de la lista
+- Limpiar todos los datos de la lista mediante el botón **Limpiar**
+
+## Tecnologías utilizadas
+- Python 3
+- Tkinter
+- PyCharm
+- GitHub
+
+## Archivo principal
+El archivo principal del proyecto es:
