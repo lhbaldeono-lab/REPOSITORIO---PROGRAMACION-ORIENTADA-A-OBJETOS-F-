@@ -1,1 +1,42 @@
 
+# Agenda Personal con Interfaz Gráfica en Python
+
+## Descripción
+
+Este proyecto consiste en el desarrollo de una aplicación de escritorio con interfaz gráfica (GUI) utilizando Python y la librería Tkinter.
+
+La aplicación funciona como una agenda personal que permite al usuario registrar, visualizar y eliminar eventos programados.
+
+---
+
+## Objetivo
+
+Desarrollar una aplicación GUI que permita:
+
+- Agregar eventos con fecha, hora y descripción  
+- Visualizar los eventos en una tabla organizada  
+- Eliminar eventos seleccionados  
+
+---
+
+## Tecnologías utilizadas
+
+- Python 3  
+- Tkinter  
+- ttk (TreeView)  
+- tkcalendar (DateEntry)  
+- PyCharm  
+
+---
+
+## Funcionalidades
+
+- Registro de eventos  
+- Visualización en tabla  
+- Eliminación de eventos  
+- Selección de fecha con DatePicker  
+- Interfaz gráfica funcional  
+
+---
+
+## Estructura del proyecto
