@@ -1,1 +1,5 @@
+Lista de Tareas GUI en Python
 
+Este proyecto consiste en una aplicación de escritorio desarrollada en Python utilizando la librería Tkinter. Su propósito es demostrar el uso de interfaces gráficas y el manejo de eventos, permitiendo al usuario interactuar con el sistema mediante acciones como agregar, completar y eliminar tareas.
+
+La aplicación fue desarrollada en el entorno PyCharm y cumple con los requisitos básicos de interacción gráfica y funcionalidad establecidos para la actividad.
