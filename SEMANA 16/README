@@ -1,1 +1,13 @@
+Gestor de Tareas con Tkinter
+Descripción
 
+Aplicación de interfaz gráfica desarrollada en Python utilizando Tkinter, que permite gestionar una lista de tareas mediante la adición, visualización, marcado como completadas y eliminación de tareas.
+
+Funcionalidades
+Agregar tareas
+Marcar tareas como completadas
+Eliminar tareas
+Uso de atajos de teclado (Enter, C, Delete, ESC)
+Tecnologías
+Python 3
+Tkinter
